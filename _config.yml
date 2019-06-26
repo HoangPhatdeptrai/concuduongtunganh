@@ -3,10 +3,10 @@
 # # # # # # # #
 
 # Basic
-name:               "Tùng Anh"
+name:               "Con Cu Tùng Anh"
 
 # URL
-url: "duongtunganh.space"
+url: "hoangphatdeptrai.github.io/concuduongtunganh"
 baseurl:            ""
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
